@@ -3,11 +3,12 @@
 ---
 ## 🔗 Direkt zu den Beispielen
 
-- 📘 [Records & Rowtypes](#-21-records)
-- 🧩 [Nested Tables (Array & Hashed)](#-22-nested-tables)
-- 📦 [Packages & Sichtbarkeit](#-23-package)
+- 📘 [Records & Rowtypes](https://github.com/ad220296/Records)
+- 🧩 [Nested Tables (Array & Hashed)](https://github.com/ad220296/Nested_Tables)
+- 📦 [Packages & Sichtbarkeit](https://github.com/ad220296/Packages)
 
 ---
+
 
 # 📦 Datenstrukturen & Packages in PL/SQL – Übersicht
 
