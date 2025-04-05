@@ -250,5 +250,3 @@ END;
 | Performanter Massenzugriff                    | 🧩 Nested Table + BULK |
 
 ---
-
-**🔚 Ende der Übersicht – ideal für `README.md` im Haupt-Repo.**
