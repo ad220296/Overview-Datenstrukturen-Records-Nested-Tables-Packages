@@ -1,4 +1,4 @@
-# PLSQL-Structures-Guide
+# PLSQL-Datenstrukturen-Guide
 
 ---
 ## 🔗 Direkt zu den Beispielen
