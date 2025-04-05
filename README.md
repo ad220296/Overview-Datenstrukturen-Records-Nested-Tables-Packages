@@ -1,4 +1,4 @@
-# Overview-Datenstrukturen-Records-Nested-Tables-Packages
+# PLSQL-Structures-Guide
 
 ---
 ## 🔗 Direkt zu den Beispielen
